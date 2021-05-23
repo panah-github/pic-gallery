@@ -1,0 +1,42 @@
+<body {
+    text-align: center;
+}
+
+.menu {
+    list-style: none;
+    position: fixed;
+    font-size: 20px;
+    cursor: pointer;
+    top: 0px;
+    right: 20px;
+    left: 90px;
+}
+
+.items {
+    float: left;
+    color: cadetblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 80px;
+    padding-left: 80px;
+    font-size: 20px;
+}
+
+items:hover {
+    font-size: 25px;
+    background-color: darksalmon;
+}
+
+#mycarousel {
+    background-color: darkorchid;
+}
+
+#mycarousel img {
+    margin-top: 35px;
+    height: 300px;
+}
+
+.carousel-inner p {
+    font-size: 20px;
+    color: darkblue;
+}
